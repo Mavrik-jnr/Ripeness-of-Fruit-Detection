@@ -1,2 +1,2 @@
 # Ripeness Of Fruit Detection
- 
+The project simply detects the fruits previosly trained on the Tensorflow Object Detection API and then on the detected ROI, 30 Ensemble Support Vector Classifiers determine the ripeness of the detected fruit -expressed as percentages. I would appreciate any further training on the modules and I would appreciate any further training on the models and i would constantly try to update and fix any detection or software bugs in the future.
