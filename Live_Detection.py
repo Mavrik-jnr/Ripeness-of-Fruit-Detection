@@ -1,6 +1,6 @@
 ## This is the Live_Detection part of the project that allows you to be able to use a camera connected to your computer and get the detection live on it.
 
-#WARNING: It would save a lot of time,and generally be more convenient if this is ran all at once in the main RFD.ipynb.
+#WARNING: It would save a lot of time,and generally be more convenient if this is ran all at once in the main RPF.ipynb.
 # This is due to RFD module having reloading the 'detection_model1' object just for a single use.
 
 from RFD import run_inference_for_single_image
