@@ -3,7 +3,7 @@ from RFD import Boxes
 from RFD import detection_model1
 import cv2
 # This is the Video_Detection part of the project that allows you to be able to pass a video and get the detection on it.
-#WARNING: It would save a lot of time,and generally be more convenient if this is ran all at once in the main RFD.ipynb.
+#WARNING: It would save a lot of time,and generally be more convenient if this is ran all at once in the main RPF.ipynb.
 # This is due to RFD module having reloading the 'detection_model1' object just for a single use.
 
 
